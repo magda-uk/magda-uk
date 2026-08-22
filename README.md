@@ -1,4 +1,3 @@
-### Hi there 👋, I'm Magda
 
 ### 🛡️ Cybersecurity & InfoSec
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
