@@ -18,7 +18,7 @@
 ![Endpoint Telemetry](https://img.shields.io/badge/Endpoint_Telemetry-grey?style=flat-square)
 ![Sysmon](https://img.shields.io/badge/Sysmon-purple?style=flat-square&logo=windows&logoColor=white)
 ![PowerShell Logging](https://img.shields.io/badge/PowerShell_Logging-1A0066?style=flat-square&logo=powershell&logoColor=white)
-![Windows Event Logs](https://img.shields.io/badge/Windows_Event_Logs-A974FF?style=flat-square&logo=windows&logoColor=white)
+![Windows Event Logs](https://img.shields.io/badge/Windows_Event_Logs-0484ff?style=flat-square&logo=windows&logoColor=white)
 ![Azure AD / Entra ID](https://img.shields.io/badge/Identity-Azure_AD_|_Entra_ID-9b59ff?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-TCP/IP_|_Packets-00A8C6?style=flat-square)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1A8cFF?style=flat-square&logo=wireshark&logoColor=white)
