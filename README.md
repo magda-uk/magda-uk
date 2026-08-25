@@ -9,7 +9,7 @@
 ![Python](https://img.shields.io/badge/Python-3.11+-blue?style=flat-square&logo=python)
 ![Database](https://img.shields.io/badge/Database-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Domain](https://img.shields.io/badge/Domain-Supply_Chain_|_Perpetual_Inventory-green?style=flat-square)
-# Magda Dominguez SOC Analyst (L1-ready) 🇬🇧 🇪🇸
+# SOC Analyst (L1-ready) 🇬🇧 🇪🇸
 
 Software & Cyber Security enthusiast focused on **Blue Team**, **Detection Engineering**, **Log Analysis** and **Secure Systems**.  
 Currently building practical skills for **SOC Analyst L1** roles and preparing for **Microsoft SC‑200**.
