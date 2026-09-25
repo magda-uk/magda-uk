@@ -1,16 +1,16 @@
-# 🔺  Magdalena Dominguez
+# 
 **Junior SOC Analyst | Cybersecurity & Incident Response**
 
 I am a detail-oriented cybersecurity professional based in the UK, specialising in Blue Team operations, telemetry analysis, and incident response. With a strong background in Perpetual Inventory and high-volume logistics, I bring a meticulous, evidence-based approach to investigating anomalies, tracing attack timelines, and separating noise from true positive alerts.
 
-### 🔺 Current Focus
+### ▫️Current Focus
 ![Focus](https://img.shields.io/badge/Focus-grey?style=flat-square)
 ![Microsoft Security](https://img.shields.io/badge/Microsoft_Security-1a0066?style=flat-square)
 ![Detection Engineering](https://img.shields.io/badge/Detection_Engineering-4479a1?style=flat-square)
 ![Log Analysis](https://img.shields.io/badge/Log_Analysis-80bfff?style=flat-square)
 ![BLT](https://img.shields.io/badge/BLT-0A84FF?style=flat-square)
 ![Frameworks](https://img.shields.io/badge/Frameworks-grey?style=flat-square)
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-800000?style=flat-square&logo=security&logoColor=white)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-FF1493?style=flat-square)
 
 
 Actively building **Blue Team** and **SOC Analyst L1** skills while preparing for **Microsoft SC‑200** and **BLT1**.
@@ -19,7 +19,7 @@ Actively building **Blue Team** and **SOC Analyst L1** skills while preparing fo
 *   **Identity & Access:** Authentication triage in Azure AD / Entra ID.
 
 ---
-### 🔺 Cybersecurity & Tech Stack 
+### ▫️Cybersecurity & Tech Stack 
 ![Wazuh](https://img.shields.io/badge/Wazuh-SIEM-00AEEF?style=flat-square&logo=wazuh&logoColor=white)
 ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-1a0066?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Sigma](https://img.shields.io/badge/Sigma-Rules-000000?style=flat-square)
@@ -46,7 +46,7 @@ Actively building **Blue Team** and **SOC Analyst L1** skills while preparing fo
 
 ---
 
-###  🔺 Software Engineering & AppSec
+### ▫️Software Engineering & AppSec
 
 
 ![Python](https://img.shields.io/badge/Python-3.11+-blue?style=flat-square&logo=python&logoColor=white)
@@ -62,7 +62,7 @@ My background in software engineering allows me to analyze vulnerabilities at th
 
 ---
 
-### 🔺 Education & Certifications
+### ▫️ Education & Certifications
 
 *   **+Master in Cyber Security** – Code First Girls (Aug 2026)
 *   **CFGdegree in Software and Data Engineering** – Code First Girls (Jul 2026)
@@ -72,7 +72,7 @@ My background in software engineering allows me to analyze vulnerabilities at th
 
 ---
 
-### 🔺 Let's Connect
+### ▫️ Let's Connect
 
 *   💼 **LinkedIn:** [linkedin.com/in/magda-d-infosec](https://www.linkedin.com/in/magda-d-infosec)
 
