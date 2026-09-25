@@ -38,9 +38,9 @@ Actively building **Blue Team** and **SOC Analyst L1** skills while preparing fo
 *   🛡️ **[Blue Team & SOC Analyst Showcase](https://github.com/magda-uk/soc-analyst-showcase)**
     *My curated highlight reel featuring top-tier threat triage cases, custom detection rules, and enterprise lab architectures. Start [here](https://github.com/magda-uk/soc-analyst-showcase) to see my best investigations.*
 
-*   📚 **[SOC Analyst Continuous Learning Portfolio](https://github.com/magda-uk/soc-analyst-portfolio)**
+*   📚 **[SOC Analyst Continuous Learning Portfolio](https://github.com/magda-uk/soc-analyst-portfolio/blob/main/README.md)**
     *The comprehensive master repository containing all my daily hands-on labs, raw telemetry analysis, and active defence playbooks.*
-*   🔍 **[Phishing Incident Response Lab](https://github.com/magda-uk/phishing-incident-response-lab)**
+*   🔍 **[Phishing Incident Response Lab](https://github.com/magda-uk/phishing-incident-response-lab/blob/main/README.md)**
     *A dedicated lab environment for email header analysis and malicious artefact triage.*
 
 
@@ -57,8 +57,8 @@ Actively building **Blue Team** and **SOC Analyst L1** skills while preparing fo
 
 My background in software engineering allows me to analyze vulnerabilities at the code level and understand the architecture of the systems I defend.
 
-*   🔐 **[SecurePass](https://github.com/magda-uk/SecurePass)**: A Flask-based REST API with MySQL, engineered with core security principles (input validation, secure authentication).
-*   📚 **[Shelfie](https://github.com/magda-uk/Shelfie)**: A digital library REST API built with Python, demonstrating backend architecture and automated testing.
+*   🔐 **[SecurePass](https://github.com/magda-uk/secure-building-aaa-framework)**: A Flask-based REST API with MySQL, engineered with core security principles (input validation, secure authentication).
+*   📚 **[Shelfie](https://github.com/magda-uk/Project-Shelfie/tree/main)**: A digital library REST API built with Python, demonstrating backend architecture and automated testing.
 
 ---
 
