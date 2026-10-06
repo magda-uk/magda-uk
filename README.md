@@ -1,7 +1,17 @@
-# 
-**Junior SOC Analyst | Cybersecurity & Incident Response**
+
+
+
+
+[![Magda Dominguez](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=999999&color=00AEEF&vCenter=true&width=350&height=40&lines=Magda+Dominguez)](https://www.linkedin.com/in/magda-d-infosec)
+[![Specialties](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00AEEF&vCenter=true&width=550&height=35&lines=%E2%96%B8+Cybersecurity+Analyst;%E2%96%B8+SOC+Operations+%26+Threat+Triage;%E2%96%B8+Detection+Engineering+%26+SIEM;%E2%96%B8+Application+Security+%26+AppSec)](https://www.linkedin.com/in/magda-d-infosec)
+
+**Target Role:** Cyber Security Analyst | SOC / Blue Team | Security Design & AppSec  
+**Certifications:** BCS CISMP | Microsoft SC-900  
+**Location:** Bristol, UK (Hybrid / Remote)
 
 I am a detail-oriented cybersecurity professional based in the UK, specialising in Blue Team operations, telemetry analysis, and application security. With a strong background in Software & Data Engineering and Perpetual Inventory within high-volume logistics, I bring a meticulous, evidence-based approach to investigating anomalies, tracing attack timelines, and separating noise from true positive alerts.
+
+---
 
 ### ▫️Current Focus
 ![Focus](https://img.shields.io/badge/Focus-grey?style=flat-square)
