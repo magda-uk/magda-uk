@@ -1,22 +1,24 @@
 # 
 **Junior SOC Analyst | Cybersecurity & Incident Response**
 
-I am a detail-oriented cybersecurity professional based in the UK, specialising in Blue Team operations, telemetry analysis, and incident response. With a strong background in Perpetual Inventory and high-volume logistics, I bring a meticulous, evidence-based approach to investigating anomalies, tracing attack timelines, and separating noise from true positive alerts.
+I am a detail-oriented cybersecurity professional based in the UK, specialising in Blue Team operations, telemetry analysis, and application security. With a strong background in Software & Data Engineering and Perpetual Inventory within high-volume logistics, I bring a meticulous, evidence-based approach to investigating anomalies, tracing attack timelines, and separating noise from true positive alerts.
 
 ### ▫️Current Focus
 ![Focus](https://img.shields.io/badge/Focus-grey?style=flat-square)
 ![Microsoft Security](https://img.shields.io/badge/Microsoft_Security-1a0066?style=flat-square)
 ![Detection Engineering](https://img.shields.io/badge/Detection_Engineering-4479a1?style=flat-square)
 ![Log Analysis](https://img.shields.io/badge/Log_Analysis-80bfff?style=flat-square)
-![BLT](https://img.shields.io/badge/BLT-0A84FF?style=flat-square)
+![BLT1](https://img.shields.io/badge/BLT1-0A84FF?style=flat-square)
 ![Frameworks](https://img.shields.io/badge/Frameworks-grey?style=flat-square)
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-FF1493?style=flat-square)
+![STRIDE](https://img.shields.io/badge/STRIDE_Threat_Modelling-4B0082?style=flat-square)
 
 
-Actively building **Blue Team** and **SOC Analyst L1** skills while preparing for **Microsoft SC‑200** and **BLT1**.
+Actively building **Blue Team**, **SOC Analyst**, and **Security Design** skills while preparing for **Microsoft SC‑200** and **BTL1**.
 *   **Detection Engineering:** Wazuh SIEM, Microsoft Sentinel, Sigma Rules.
 *   **Endpoint Telemetry:** Sysmon, Windows Event Logs, PowerShell Logging.
 *   **Identity & Access:** Authentication triage in Azure AD / Entra ID.
+* **AppSec & Threat Modelling:** STRIDE, OWASP API Security Top 10, Low-Level Design (LLD) remediation.
 
 ---
 ### ▫️Cybersecurity & Tech Stack 
@@ -35,30 +37,41 @@ Actively building **Blue Team** and **SOC Analyst L1** skills while preparing fo
 
 ### 🔺 Featured Repositories
 
-*   🛡️ **[Blue Team & SOC Analyst Showcase](https://github.com/magda-uk/soc-analyst-showcase)**
-    *My curated highlight reel featuring top-tier threat triage cases, custom detection rules, and enterprise lab architectures. Start [here](https://github.com/magda-uk/soc-analyst-showcase) to see my best investigations.*
+*  ➜ **[Cybersecurity, SOC & AppSec Showcase](https://github.com/magda-uk/soc-analyst-showcase)**
 
-*   📚 **[SOC Analyst Continuous Learning Portfolio](https://github.com/magda-uk/soc-analyst-portfolio/blob/main/README.md)**
+    *My curated highlight reel featuring top-tier threat triage cases, custom detection rules, enterprise lab architectures, and security audits. Start [**here**](https://github.com/magda-uk/soc-analyst-showcase) to see my best work.*
+
+
+* ➜ **[SOC Operations, Detection Rules & Playbooks (Master Repo)](https://github.com/magda-uk/soc-analyst-portfolio/blob/main/README.md)**
+    
     *The comprehensive master repository containing all my daily hands-on labs, raw telemetry analysis, and active defence playbooks.*
-*   🔍 **[Phishing Incident Response Lab](https://github.com/magda-uk/phishing-incident-response-lab/blob/main/README.md)**
+* ➜ **[Shelfie REST API: Security Audit, STRIDE Threat Model & Remediation](https://github.com/magda-uk/shelfie-security-audit)**  
+
+  *End-to-end API security assessment (IDOR/BOLA, Stored XSS, Brute-Force) using Burp Suite & OWASP ZAP, complete with a Low-Level Design (LLD) [**Technical Remediation Playbook**](https://github.com/magda-uk/shelfie-security-audit/blob/main/docs/remediation-playbook.md).*
+*   ➜ **[Phishing Incident Response Lab](https://github.com/magda-uk/phishing-incident-response-lab/blob/main/README.md)**
+
     *A dedicated lab environment for email header analysis and malicious artefact triage.*
 
 
 ---
 
-### ▫️Software Engineering & AppSec
+### ▫️Software, Data Engineering & AppSec
 
 
 ![Python](https://img.shields.io/badge/Python-3.11+-blue?style=flat-square&logo=python&logoColor=white)
-![Database](https://img.shields.io/badge/Database-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Database](https://img.shields.io/badge/Database-MySQL-4A6FA5?style=flat-square&logo=mysql&logoColor=white)
 ![APIs](https://img.shields.io/badge/APIs-REST-6f42c1?style=flat-square&logo=fastapi&logoColor=white)
-![Domain](https://img.shields.io/badge/Domain-CyberDefence-0A84FF?)
+![OWASP](https://img.shields.io/badge/OWASP-API_Top_10-000000?style=flat-square&logo=owasp&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Pentesting-Burp_Suite_|_ZAP-1A0066?style=flat-square&logo=burpsuite&logoColor=white)
 ![Postman](https://img.shields.io/badge/API_Testing-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-My background in software engineering allows me to analyze vulnerabilities at the code level and understand the architecture of the systems I defend.
+My background in software and data engineering allows me to analyse vulnerabilities at the code level, enforce relational data integrity and understand the underlying architecture of the systems I defend.
 
-*   🔐 **[SecurePass](https://github.com/magda-uk/secure-building-aaa-framework)**: A Flask-based REST API with MySQL, engineered with core security principles (input validation, secure authentication).
-*   📚 **[Shelfie](https://github.com/magda-uk/Project-Shelfie/tree/main)**: A digital library REST API built with Python, demonstrating backend architecture and automated testing.
+* ➜ **[Shelfie Security Audit & Remediation Playbook](https://github.com/magda-uk/shelfie-security-audit)**: Penetration testing report, STRIDE/MITRE ATT&CK threat model, and secure code remediation (`@token_required` JWT RBAC, `Pydantic` validation, `Flask-Limiter`, MySQL Least Privilege).
+* ➜ **[CDC Inventory & Physical Audit Database](https://github.com/magda-uk/inventory-audit-database)**: A 3NF relational database (MySQL) engineered to detect operational **stock drift**, enforce role-based data constraints, and automate discrepancy & anomaly triage via multi-table `JOIN`s, `VIEW`s, and Stored Procedures.
+
+*   ➜ **[SecurePass](https://github.com/magda-uk/secure-building-aaa-framework)**: A Flask-based REST API with MySQL, engineered with core security principles (input validation, secure authentication).
+*   ➜ **[Shelfie (Core Application)](https://github.com/magda-uk/Project-Shelfie/tree/main)**: Collaborative four-layer digital library REST API built with Python and MySQL, demonstrating backend architecture, Agile/Jira leadership, and automated testing.
 
 ---
 
@@ -74,6 +87,5 @@ My background in software engineering allows me to analyze vulnerabilities at th
 
 ### ▫️ Let's Connect
 
-*   💼 **LinkedIn:** [linkedin.com/in/magda-d-infosec](https://www.linkedin.com/in/magda-d-infosec)
-
+[![Magda Dominguez LinkedIn](https://img.shields.io/badge/Magda_Dominguez-Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/magda-d-infosec)
    
