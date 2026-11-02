@@ -47,20 +47,20 @@ Actively building **Blue Team**, **SOC Analyst**, and **Security Design** skills
 
 ### 🔺 Featured Repositories
 
-*  ➜ **[Cybersecurity, SOC & AppSec Showcase](https://github.com/magda-uk/soc-analyst-showcase)**
-
+*   ➜ **[Cybersecurity, SOC & AppSec Showcase](https://github.com/magda-uk/soc-analyst-showcase)**
     *My curated highlight reel featuring top-tier threat triage cases, custom detection rules, enterprise lab architectures, and security audits. Start [**here**](https://github.com/magda-uk/soc-analyst-showcase) to see my best work.*
 
+*   ➜ **[MITRE ATT&CK & Threat Hunting Investigations](https://github.com/magda-uk/mitre-attack-mapping)**
+    *My core analytical repository. Features end-to-end log analysis (Sysmon, Entra ID, Windows Events) mapped across all 15 MITRE ATT&CK enterprise tactics, proactive KQL threat hunting, and Sentinel SOAR automation.*
 
-* ➜ **[SOC Operations, Detection Rules & Playbooks (Master Repo)](https://github.com/magda-uk/soc-analyst-portfolio/blob/main/README.md)**
-    
+*   ➜ **[SOC Operations, Detection Rules & Playbooks (Master Repo)](https://github.com/magda-uk/soc-analyst-portfolio/blob/main/README.md)**
     *The comprehensive master repository containing all my daily hands-on labs, raw telemetry analysis, and active defence playbooks.*
-* ➜ **[Shelfie REST API: Security Audit, STRIDE Threat Model & Remediation](https://github.com/magda-uk/shelfie-security-audit)**  
 
-  *End-to-end API security assessment (IDOR/BOLA, Stored XSS, Brute-Force) using Burp Suite & OWASP ZAP, complete with a Low-Level Design (LLD) [**Technical Remediation Playbook**](https://github.com/magda-uk/shelfie-security-audit/blob/main/docs/remediation-playbook.md).*
+*   ➜ **[Shelfie REST API: Security Audit, STRIDE Threat Model & Remediation](https://github.com/magda-uk/shelfie-security-audit)**  
+    *End-to-end API security assessment (IDOR/BOLA, Stored XSS, Brute-Force) using Burp Suite & OWASP ZAP, complete with a Low-Level Design (LLD) [**Technical Remediation Playbook**](https://github.com/magda-uk/shelfie-security-audit/blob/main/docs/remediation-playbook.md).*
+
 *   ➜ **[Phishing Incident Response Lab](https://github.com/magda-uk/phishing-incident-response-lab/blob/main/README.md)**
-
-    *A dedicated lab environment for email header analysis and malicious artefact triage.*
+    *A dedicated lab environment for email header analysis, spam filter evasion (Bayesian Poisoning), and malicious artefact triage.*
 
 
 ---
